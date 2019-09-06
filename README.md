@@ -2,6 +2,18 @@
 
 This repository contains the dataset used for the paper _"DeepMPLS: Fast Analysis of MPLS Configurations Using Deep Learning"_ publish at the [IFIP Networking 2019](https://networking.ifip.org/2019/) conference. We refer to the paper for a full explanation of the methodology used for generating the dataset.
 
+
+## Getting the dataset
+
+The dataset is stored in the git repository using [git lfs](https://git-lfs.github.com/). Install git lfs on your system first and then clone the repository using:
+
+```
+$ git lfs clone https://github.com/fabgeyer/dataset-networking2019.git
+```
+
+The `dataset` folder should be around 170M.
+
+
 ## Reading the dataset
 
 This dataset is based on the networks from the [topology-zoo dataset](http://www.topology-zoo.org/).
