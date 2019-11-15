@@ -3,6 +3,11 @@
 This repository contains the dataset used for the paper [_"DeepMPLS: Fast Analysis of MPLS Configurations Using Deep Learning"_](https://dx.doi.org/10.23919/IFIPNetworking.2019.8816842) publish at the [IFIP Networking 2019](https://networking.ifip.org/2019/) conference. We refer to the paper for a full explanation of the methodology used for generating the dataset.
 
 
+## DeepMPLS code
+
+Part of the DeepMPLS code is accessible in [the dedicated DeepMPLS repository](https://github.com/fabgeyer/deepmpls).
+
+
 ## Getting the dataset
 
 The dataset is stored in the git repository using [git lfs](https://git-lfs.github.com/). Install git lfs on your system first and then clone the repository using:
@@ -39,6 +44,7 @@ In `dataset/cpred/topology-zoo/Arpanet196912.queries.json.gz`, the first query i
 ```
 
 This query corresponds to the network described by the `s1p49/topo.xml` and `s1p49/routing.xml` files from the archive `dataset/cpred/topology-zoo/Arpanet196912.xmls.tgz`.
+
 
 ## Citation
 
