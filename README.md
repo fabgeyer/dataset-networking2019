@@ -1,6 +1,6 @@
 # DeepMPLS: Fast Analysis of MPLS Configurations Using Deep Learning
 
-This repository contains the dataset used for the paper _"DeepMPLS: Fast Analysis of MPLS Configurations Using Deep Learning"_ publish at the [IFIP Networking 2019](https://networking.ifip.org/2019/) conference. We refer to the paper for a full explanation of the methodology used for generating the dataset.
+This repository contains the dataset used for the paper [_"DeepMPLS: Fast Analysis of MPLS Configurations Using Deep Learning"_](https://dx.doi.org/10.23919/IFIPNetworking.2019.8816842) publish at the [IFIP Networking 2019](https://networking.ifip.org/2019/) conference. We refer to the paper for a full explanation of the methodology used for generating the dataset.
 
 
 ## Getting the dataset
@@ -52,5 +52,6 @@ If you use this dataset for your research, please include the following referenc
 	year      = {2019},
 	month     = mai,
 	address   = {Warsaw, Poland},
+	doi       = {10.23919/IFIPNetworking.2019.8816842},
 }
 ```
